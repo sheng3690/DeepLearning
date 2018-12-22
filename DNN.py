@@ -59,7 +59,7 @@ class NeuralNetwork:
 
         # 1. Output neuron deltas
         pd_errors_wrt_output_neuron_total_net_input = [0]*len(self.output_layer.neurons)
-        for o in range(len(self.))
+
 
 
 
